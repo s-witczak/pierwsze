@@ -4,3 +4,4 @@ for i in range(5):
 print("Dzisiejszy dzien jest cieply i przyjemny, zycze milego dnia")
 
 print("Ladna galaz")
+print ("Jeszcze jak!")
