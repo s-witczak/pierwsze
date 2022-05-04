@@ -2,3 +2,5 @@ for i in range(5):
   print("Dzien dobry")
 
 print("Dzisiejszy dzien jest cieply i przyjemny, zycze milego dnia")
+
+print("Ladna galaz")
